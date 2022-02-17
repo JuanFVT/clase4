@@ -1,2 +1,5 @@
 el main de mi aplicacion
 //esto simplemente es una practica para generar conflicto
+
+instrucciones agregadas
+//esto es para generar conflicto
