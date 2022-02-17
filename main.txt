@@ -1,3 +1,11 @@
+
 el main de mi aplicacion ALGO MAS
 //esto simplemente es una practica para generar conflicto
+
+
+el main de mi aplicacion
+//esto simplemente es una practica para generar conflicto
+
+instrucciones agregadas
+//esto es para generar conflicto
 
